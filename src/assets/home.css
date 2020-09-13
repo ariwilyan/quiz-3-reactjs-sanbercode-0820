@@ -1,0 +1,16 @@
+.movie-image {
+    /* width: 100%; */
+    flex: 1 0 50%;
+}
+
+.movie-details {
+    /* width: 100%; */
+    flex-grow: 2;
+}
+
+.movie-image img {
+    width: 900px;
+    height: 410px;
+    object-fit: cover;
+    padding-right: 15px;
+}
